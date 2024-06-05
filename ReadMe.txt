@@ -1,0 +1,1 @@
+Express is an un-opinionated framework, meaning that it allows developers the freedom to structure their code how they choose instead of forcing a particular code structure. One place where this un-opinionated stance can be seen is with the application of middleware.
